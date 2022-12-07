@@ -25,4 +25,4 @@ const guilherme = {
   },
 }
 ```
-<a href="https://www.linkedin.com/in/guigaribalde">![Linkedin](https://shields.io/badge/Linkedin-161-blue?logo=linkedin&style=social)</a>  <a href="https://www.instagram.com/guigaribalde/">![Instagram](https://shields.io/badge/Instagram-472-orange?logo=instagram&style=social)</a>
+<a href="https://www.linkedin.com/in/guigaribalde">![Linkedin](https://shields.io/badge/Linkedin-181-blue?logo=linkedin&style=social)</a>  <a href="https://www.instagram.com/guigaribalde/">![Instagram](https://shields.io/badge/Instagram-532-orange?logo=instagram&style=social)</a>
