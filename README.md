@@ -1,4 +1,6 @@
 ## Hey, i am Guilherme Garibaldi! 👋
+> *Tech Lead at [Runrun.it](https://github.com/maissimples)*.
+
 > *Founder and CIO at [Creatusdev](https://github.com/Creatus-Desenvolvimento-de-Solucoes)*.
 
 > *Software Engineer at [PUCRS](https://www.pucrs.br/)*.
