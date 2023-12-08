@@ -1,9 +1,9 @@
 ## Hey, i am Guilherme Garibaldi! 👋
 > *Tech Lead at [Runrun.it](https://github.com/maissimples)*.
 
-> *Founder and CIO at [Creatusdev](https://github.com/Creatus-Desenvolvimento-de-Solucoes)*.
+> *Founder at [Creatusdev](https://github.com/Creatus-Desenvolvimento-de-Solucoes)*.
 
-> *Software Engineer at [PUCRS](https://www.pucrs.br/)*.
+> *Software Engineer Degree at [PUCRS](https://www.pucrs.br/)*.
 
 #### I am a Front-end engineer and designer.
 Since 2019 i've been living and breathing web development especially ReactJS. I've been creating modern, clean and user friendly user interfaces for all types and sizes of companies but currently working on my own! [Check it out!](https://creatusdev.com)
