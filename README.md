@@ -6,7 +6,7 @@
 > *Software Engineer Degree at [PUCRS](https://www.pucrs.br/)*.
 
 #### I am a Front-end engineer and designer.
-Since 2019 i've been living and breathing web development especially ReactJS. I've been creating modern, clean and user friendly user interfaces for all types and sizes of companies but currently working on my own! [Check it out!](https://creatusdev.com)
+Since 2018 i've been living and breathing web development especially ReactJS. I've been creating modern, clean and user friendly user interfaces for all types and sizes of companies but currently working on my own! [Check it out!](https://creatusdev.com)
 
 #### Showcases
 * [React Native Showcase](https://github.com/Hackatona-AGES-2022/Undefined)
