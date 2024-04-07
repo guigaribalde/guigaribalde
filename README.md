@@ -12,7 +12,7 @@ Since 2017 i've been living and breathing web development especially ReactJS. I'
 ```typescript
 const Guilherme: SoftwareEngineer = {
   pronuns: "he" | "his",
-  languages: ["English", "Portuguese", "Spanish"],
+  languages: ["English 🇺🇸", "Portuguese 🇧🇷", "Spanish 🇪🇸"],
   hobby: "Games 🕹️",
   
   work: {
