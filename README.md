@@ -6,24 +6,20 @@
 > *Software Engineer Degree at [PUCRS](https://www.pucrs.br/)*.
 
 #### I am a Front-end engineer and designer.
-Since 2018 i've been living and breathing web development especially ReactJS. I've been creating modern, clean and user friendly user interfaces for all types and sizes of companies but currently working on my own! [Check it out!](https://creatusdev.com)
-
-#### Showcases
-* [React Native Showcase](https://github.com/Hackatona-AGES-2022/Undefined)
-* [NextJS Showcase](https://github.com/guigaribalde/totty-front)
+Since 2017 i've been living and breathing web development especially ReactJS. I've been creating modern, clean and user friendly user interfaces for all types and sizes of companies!
 
 #### A little bit more about me 😉... 
-```js
-const guilherme = {
+```typescript
+const Guilherme: SoftwareEngineer = {
   pronuns: "he" | "his",
-  languages: [English, Portuguese, Spanish],
+  languages: ["English", "Portuguese", "Spanish"],
   hobby: "Games 🕹️",
   
   work: {
-    code: [Javascript, Typescript, HTML, CSS, Python, C],
-    tools: [React, Next, Gatsby, Node, Redux, Styled-Components, Docker, Jest, Mocha, Nginx],
+    code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "C++"],
+    tools: ["React", "Next", "MobX", "Node", "Express", "Redux", "Docker", "Jest", "Cypress", "Nginx"],
     architecture: ["event-driven", "microservices", "micro front-end", "design system pattern"],
-    database: [Mongo, MySQL],
+    database: ["MongoDB", "MySQL", "DynamoDB", "PostegreSQL"],
   },
 }
 ```
