@@ -21,4 +21,4 @@ const Guilherme: SoftwareEngineer = {
   },
 }
 ```
-<a href="https://www.linkedin.com/in/guigaribalde">![Linkedin](https://shields.io/badge/Linkedin-181-blue?logo=linkedin&style=social)</a>  <a href="https://www.instagram.com/guigaribalde/">![Instagram](https://shields.io/badge/Instagram-532-orange?logo=instagram&style=social)</a>
+<a href="https://www.linkedin.com/in/guigaribalde">![Linkedin](https://shields.io/badge/Linkedin-643-blue?logo=linkedin&style=social)</a>  <a href="https://www.instagram.com/guigaribalde/">![Instagram](https://shields.io/badge/Instagram-540-orange?logo=instagram&style=social)</a>
