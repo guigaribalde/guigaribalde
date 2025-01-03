@@ -3,8 +3,8 @@
 
 > *Software Engineer Degree at [PUCRS](https://www.pucrs.br/)*.
 
-#### I am a Front-end Software Engineer and designer.
-Since 2017 i've been living and breathing web development especially ReactJS. I've been creating modern, clean and user friendly user interfaces for all types and sizes of companies!
+#### I am Software Engineer and designer.
+Since 2017 i've been living and breathing web development. I've been creating modern, clean and user friendly user interfaces, APIs and applications for all types and sizes of companies!
 
 #### A little bit more about me 😉... 
 ```typescript
