@@ -1,5 +1,5 @@
 ## Hey, i am Guilherme Garibaldi! 👋
-> *Staff Software Engineer at [Runrun.it](https://github.com/maissimples)*.
+> *Lead AI Engineer | Web Applications [Sierra](https://www.sierra.studio/)*.
 
 > *Software Engineer Degree at [PUCRS](https://www.pucrs.br/)*.
 
